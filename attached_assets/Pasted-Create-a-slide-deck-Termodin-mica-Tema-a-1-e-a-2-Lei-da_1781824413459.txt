@@ -1,0 +1,91 @@
+Create a slide deck. Termodinâmica
+Tema: a 1ª e a 2ª Lei da Termodinâmica
+
+Objetivos da Atividade
+Ao final desta atividade, os estudantes deverão ser capazes de:
+
+Compreender os conceitos fundamentais da Termodinâmica;
+Identificar aplicações da Termodinâmica no cotidiano;
+Entender a relação entre calor, temperatura, trabalho e energia;
+Explicar a 1ª e a 2ª Lei da Termodinâmica;
+Desenvolver autonomia, trabalho em equipe e pensamento crítico;
+Comunicar informações científicas de forma clara e organizada.
+Situação-Problema Inicial
+"Por que um carro aquece durante o funcionamento? Como uma geladeira consegue retirar calor de seu interior? É possível construir uma máquina 100% eficiente?"
+A partir dessas perguntas, os grupos deverão desenvolver a pesquisa.
+
+Parte 1 – Introdução à Termodinâmica
+Pesquise e explique:
+
+O que é Termodinâmica?
+Qual a diferença entre calor e temperatura?
+O que é energia térmica?
+O que significa equilíbrio térmico?
+Cite exemplos da Termodinâmica no cotidiano.
+Parte 2 – Conceitos Fundamentais
+Explique os conceitos abaixo com exemplos:
+
+Sistema termodinâmico
+Vizinhança
+fronteira
+Sistema aberto, fechado e isolado
+Transformações gasosas
+Energia interna
+Trabalho termodinâmico
+Parte 3 – 1ª Lei da Termodinâmica
+Pesquise e explique:
+
+O que afirma a 1ª Lei da Termodinâmica?
+Qual a relação entre calor, trabalho e variação da energia interna?
+Explique a fórmula:
+O que acontece:
+◦ quando o sistema recebe calor?
+◦ quando o sistema realiza trabalho?
+◦ quando a energia interna aumenta ou diminui?
+Cite aplicações da 1ª Lei da Termodinâmica no cotidiano.
+Parte 4 – 2ª Lei da Termodinâmica
+Pesquise e explique:
+
+O que afirma a 2ª Lei da Termodinâmica?
+O que é entropia?
+Por que nenhuma máquina térmica possui rendimento de 100%?
+Como funciona uma máquina térmica?
+Como funcionam:
+◦ geladeiras;
+◦ ar-condicionado;
+◦ motores a combustão?
+Explique o sentido natural das trocas de calor.
+Desafio Investigativo
+◦ Máquina a vapor
+O grupo deverá explicar:
+
+Como a Termodinâmica está presente no sistema;
+Quais leis são aplicadas;
+Quais transformações energéticas ocorrem;
+Quais perdas de energia existem.
+Questões para Reflexão Final
+
+A Termodinâmica está presente apenas em máquinas? Explique.
+Por que a eficiência energética é importante atualmente?
+Como a 2ª Lei da Termodinâmica influencia a vida cotidiana?
+É possível evitar totalmente as perdas de energia? Justifique.
+Orientações para Apresentação
+Durante a apresentação, o grupo deverá:
+
+Explicar os conceitos principais;
+Utilizar linguagem científica adequada;
+Mostrar exemplos do cotidiano;
+Responder perguntas da turma;
+Relacionar teoria e prática.
+Organização da Atividade
+Cada grupo deverá entregar:
+
+Slides
+Apresentação oral (15 minutos)
+Resolução da situação-problema proposta
+Critérios de Avaliação (Total: 10,0 pontos)
+Organização e clareza da pesquisa – 2,0
+Qualidade das explicações científicas – 2,0
+Participação e trabalho em equipe – 2,0
+Criatividade do material apresentado – 2,0
+Apresentação oral e domínio do conteúdo – 2,0

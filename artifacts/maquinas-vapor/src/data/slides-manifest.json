@@ -1,0 +1,162 @@
+[
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000001",
+    "position": 1,
+    "filepath": "src/pages/slides/01-Capa.tsx",
+    "title": "Capa",
+    "description": "Slide de abertura sobre máquinas a vapor e termodinâmica, com o nome do grupo.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000002",
+    "position": 2,
+    "filepath": "src/pages/slides/02-Termodinamica.tsx",
+    "title": "O que é Termodinâmica",
+    "description": "Introdução à termodinâmica como estudo das relações entre calor, energia e trabalho.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000003",
+    "position": 3,
+    "filepath": "src/pages/slides/03-CalorTemperatura.tsx",
+    "title": "Calor e Temperatura",
+    "description": "Diferença entre calor (energia em trânsito) e temperatura (agitação das partículas).",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000004",
+    "position": 4,
+    "filepath": "src/pages/slides/04-EquilibrioTermico.tsx",
+    "title": "Equilíbrio Térmico",
+    "description": "Conceito de equilíbrio térmico quando dois corpos atingem a mesma temperatura.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000005",
+    "position": 5,
+    "filepath": "src/pages/slides/05-Sistema.tsx",
+    "title": "Sistema Termodinâmico",
+    "description": "Definição de sistema, vizinhança e fronteira em um processo termodinâmico.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000006",
+    "position": 6,
+    "filepath": "src/pages/slides/06-EnergiaInterna.tsx",
+    "title": "Energia Interna",
+    "description": "Energia interna como soma das energias das partículas e sua relação com a temperatura.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000007",
+    "position": 7,
+    "filepath": "src/pages/slides/07-HistoriaWatt.tsx",
+    "title": "História da Máquina a Vapor",
+    "description": "Contexto histórico da máquina a vapor e da Revolução Industrial.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000008",
+    "position": 8,
+    "filepath": "src/pages/slides/08-ComoFunciona.tsx",
+    "title": "Como Funciona",
+    "description": "Funcionamento passo a passo da máquina a vapor, da caldeira ao trabalho mecânico.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000009",
+    "position": 9,
+    "filepath": "src/pages/slides/09-Componentes.tsx",
+    "title": "Componentes",
+    "description": "Principais componentes da máquina a vapor: caldeira, cilindro, válvula e volante.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000010",
+    "position": 10,
+    "filepath": "src/pages/slides/10-PrimeiraLei.tsx",
+    "title": "Primeira Lei",
+    "description": "Primeira lei da termodinâmica e a conservação de energia (ΔU = Q − W).",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000011",
+    "position": 11,
+    "filepath": "src/pages/slides/11-PrimeiraLeiVapor.tsx",
+    "title": "Primeira Lei na Máquina a Vapor",
+    "description": "Aplicação da primeira lei na transformação de energia dentro da máquina a vapor.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000012",
+    "position": 12,
+    "filepath": "src/pages/slides/12-Aplicacoes.tsx",
+    "title": "Aplicações no Cotidiano",
+    "description": "Exemplos da primeira lei no dia a dia: panela de pressão, usinas e pneu no sol.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000013",
+    "position": 13,
+    "filepath": "src/pages/slides/13-SegundaLei.tsx",
+    "title": "Segunda Lei",
+    "description": "Segunda lei da termodinâmica e o sentido natural do fluxo de calor.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000014",
+    "position": 14,
+    "filepath": "src/pages/slides/14-Entropia.tsx",
+    "title": "Entropia",
+    "description": "Entropia como medida da desordem e a tendência natural de aumento.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000015",
+    "position": 15,
+    "filepath": "src/pages/slides/15-Rendimento.tsx",
+    "title": "Rendimento",
+    "description": "Por que nenhuma máquina térmica é 100% eficiente e o ciclo de Carnot.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000016",
+    "position": 16,
+    "filepath": "src/pages/slides/16-GeladeiraAr.tsx",
+    "title": "Geladeira e Ar-condicionado",
+    "description": "Máquinas térmicas invertidas que gastam energia para retirar calor.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000017",
+    "position": 17,
+    "filepath": "src/pages/slides/17-Combustao.tsx",
+    "title": "Motores a Combustão",
+    "description": "Da máquina a vapor ao motor a combustão e as perdas de energia.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000018",
+    "position": 18,
+    "filepath": "src/pages/slides/18-ReflexaoFinal.tsx",
+    "title": "Eficiência Energética",
+    "description": "Reflexão final sobre eficiência energética e o aproveitamento do calor.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000019",
+    "position": 19,
+    "filepath": "src/pages/slides/19-Referencias.tsx",
+    "title": "Referências",
+    "description": "Lista de fontes confiáveis consultadas para a apresentação.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "5f1d0a8c-1a2b-4c3d-8e4f-000000000020",
+    "position": 20,
+    "filepath": "src/pages/slides/20-Obrigado.tsx",
+    "title": "Obrigado",
+    "description": "Slide de encerramento com agradecimento e os nomes do grupo.",
+    "speakerNotes": ""
+  }
+]

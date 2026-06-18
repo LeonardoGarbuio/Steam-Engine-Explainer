@@ -1,0 +1,74 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "lT6-7ErzQFEQRdYOQttpZ"
+uri = "file://attached_assets/stock_images/industrial_revolution_factory.jpg"
+type = "image"
+title = "old industrial revolution factory with smokestacks and steam, 19th century, sepia warm tones"
+
+[[outputs]]
+id = "B2FTsNkoR0gQjYr0592Ps"
+uri = "file://attached_assets/stock_images/antique_steam_engine.jpg"
+type = "image"
+title = "antique steam engine machine with brass pistons and flywheel in a museum"
+
+[[outputs]]
+id = "CXxsXq3UGdeoHjtoP_LD-"
+uri = "file://attached_assets/stock_images/refrigerator_open.jpg"
+type = "image"
+title = "modern open refrigerator full of fresh food, clean kitchen"
+
+[[outputs]]
+id = "v8jzEN75ShRbxbNUKPIsV"
+uri = "file://attached_assets/stock_images/car_engine.jpg"
+type = "image"
+title = "car internal combustion engine close up, mechanical detail"
+
+[[outputs]]
+id = "Q9PM-CI2EO9Ihfk4SES13"
+uri = "file://attached_assets/stock_images/steam_train_motion.jpg"
+type = "image"
+title = "steam locomotive train on tracks with thick white steam clouds, vintage railway, dramatic"
+
+[[outputs]]
+id = "l3Hiegi-IR5tMBxfq2wK0"
+uri = "file://attached_assets/stock_images/steam_locomotive_hero2.jpg"
+type = "image"
+title = "classic black steam train engine front view emitting steam, countryside"
+
+[[outputs]]
+id = "PNl_9RkDeUNel8ciw-F_j"
+uri = "file://attached_assets/stock_images/pressure_cooker_steam.jpg"
+type = "image"
+title = "pressure cooker releasing steam on stove, kitchen close up"
+
+[[outputs]]
+id = "xX-CmloN82YIhfXm_ghrh"
+uri = "file://attached_assets/stock_images/air_conditioner.jpg"
+type = "image"
+title = "modern white air conditioner unit on wall in bright room"
+
+[[outputs]]
+id = "UARbr0oVcuN4enpLoEyn4"
+uri = "file://attached_assets/stock_images/boiling_kettle.jpg"
+type = "image"
+title = "boiling kettle with steam rising, warm kitchen light"
+
+[[outputs]]
+id = "2dJv3jgaBS8gSObjYpoR2"
+uri = "file://attached_assets/stock_images/energy_efficiency.jpg"
+type = "image"
+title = "wind turbines and solar panels green energy landscape at sunset"
+
+[[outputs]]
+id = "Ixb5IXnNj458XrMapRljk"
+uri = "file://attached_assets/stock_images/pressure_gauge.jpg"
+type = "image"
+title = "vintage brass pressure gauge manometer industrial close up"
+
+[[outputs]]
+id = "PsHNtd9VWc3VF1jMFqnct"
+uri = "file://attached_assets/stock_images/pistons_mechanism.jpg"
+type = "image"
+title = "close up of steam engine pistons and connecting rods, brass and steel mechanism"
