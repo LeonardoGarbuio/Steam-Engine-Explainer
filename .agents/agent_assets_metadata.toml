@@ -72,3 +72,9 @@ id = "PsHNtd9VWc3VF1jMFqnct"
 uri = "file://attached_assets/stock_images/pistons_mechanism.jpg"
 type = "image"
 title = "close up of steam engine pistons and connecting rods, brass and steel mechanism"
+
+[[outputs]]
+id = "tqk9vXC53C5ONelgW9FV3"
+uri = "file://.local/outputs/Steam-Engine-Explainer.pptx"
+type = "slides"
+title = "Steam Engine Explainer.pptx"
